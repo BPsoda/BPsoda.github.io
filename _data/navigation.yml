@@ -10,7 +10,7 @@ main:
     url: "/#-educations"
 
   - title: "Language"
-  url: "/#-language"
+    url: "/#-language"
 
   - title: "Projects"
     url: "/#-projects"
