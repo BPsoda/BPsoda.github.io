@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior student at Shanghai Jiao Tong University, majoring in automation(IEEE class). I love to study how the digital world percepts and controls the physical world. So, I have interest in computer vision, robotics and deep learning.  
+I am a senior student at Shanghai Jiao Tong University, majoring in automation(IEEE class). I will start PhD. at Tsinghua University, Interdisciplinary Information Sciences, advised by Prof. Yang Gao. I love to study how the digital world percepts and controls the physical world. So, my research interests are robotics and embodied AI.  
 
-Currently, I am researching deep-learning-based visual mapping and localization, advised by Prof. Hesheng Wang. I am looking forward to a Ph.D degree in control science or computer science.
 
 Favored programming language: Python, C++, Matlab. Like to program in an organized way: understandable variable names, clean comments, good file structure and git commit logs. Hate functions that written by other programmer but have no comments or docs.
 
@@ -39,6 +38,20 @@ Favored programming language: Python, C++, Matlab. Like to program in an organiz
 - *CET6* 660
 - *TOEFL* 104 (Reading 29, Listening 29, Speaking 22, Writing 24)
 
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024 VLMNM Spotlight</div><img src='images/copa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models](https://arxiv.org/abs/2403.08248)
+
+Haoxu Huang, Fanqi Lin, Yingdong Hu, Shengjie Wang, Yang Gao
+
+[**Project Page**](https://copa-2024.github.io/)
+- CoPa is a novel framework that incorporates common sense knowledge embedded within foundation vision-language models (VLMs), such as GPT-4V, into the low-level robotic manipulation tasks. 
+- CoPa is capable of handling diverse open-set instructions and objects in a zero-training manner. 
+</div>
+</div>
 
 # 💻 Projects
 ## Make Illustrator Relationship Visible
