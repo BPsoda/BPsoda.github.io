@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at Shanghai Jiao Tong University, majoring in automation(IEEE class). I will start PhD. at Tsinghua University, Interdisciplinary Information Sciences, advised by Prof. Yang Gao. I love to study how the digital world percepts and controls the physical world. So, my research interests are robotics and embodied AI.  
+I am a PhD. student at Tsinghua University, Interdisciplinary Information Sciences, advised by Prof. Yang Gao. I obtained B.E. at Shanghai Jiao Tong University, majoring in automation(IEEE class). I love to study how the digital world percepts and controls the physical world. So, my research interests are robotics and embodied AI.  
 
 
 Favored programming language: Python, C++, Matlab. Like to program in an organized way: understandable variable names, clean comments, good file structure and git commit logs. Hate functions that written by other programmer but have no comments or docs.
@@ -31,7 +31,8 @@ Favored programming language: Python, C++, Matlab. Like to program in an organiz
 - *2021.10* SJTU Scholarship, Grade B
 
 # 📖 Educations
-- *2020.06 - now*, Undergraduate, Shanghai Jiao Tong University, Shanghai.  
+- *2024.09 - now*, PhD. student, Tsinghua University, Beijing.  
+- *2020.09 - 2024.06*, Undergraduate, Shanghai Jiao Tong University, Shanghai.  
   **Score**: 91.02/100 **Rank**: 1/28
 
 # 💬 Language
@@ -40,7 +41,7 @@ Favored programming language: Python, C++, Matlab. Like to program in an organiz
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024 VLMNM Spotlight</div><img src='images/copa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/copa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models](https://arxiv.org/abs/2403.08248)
