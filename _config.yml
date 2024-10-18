@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoxu Huang (黄浩栩)"
   avatar           : "images/hhx_profile.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Tsinghua University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "huanghaoxv@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=zUHUsuAAAAAJ"
+  email            : "huanghx24@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github BPsoda"
+  github           : "HaoxuHuang"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/haoxu_huang"
   vine             :
   weibo            :
   xing             :
